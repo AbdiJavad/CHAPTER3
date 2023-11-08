@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7304152-c7f8-4790-8cf0-62345cf29112" name="Changes" comment="" />
+    <list default="true" id="a7304152-c7f8-4790-8cf0-62345cf29112" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/AdditionQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdditionQuiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChineseZodiac.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChineseZodiac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputeAndInterpretBMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputeAndInterpretBMI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputeTax.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputeTax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lottery.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lottery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleIfDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleIfDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SubtractionQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/SubtractionQuiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestBooleanOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestBooleanOperators.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -25,7 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/javaintrdoction/CHAPTER3/src"
+    "last_opened_file_path": "D:/javaintrdoction/CHAPTER4"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -37,6 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698156067119</updated>
       <workItem from="1698156069526" duration="174000" />
+      <workItem from="1698409179688" duration="321000" />
     </task>
     <servers />
   </component>

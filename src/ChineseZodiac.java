@@ -1,9 +1,7 @@
 import java.util.Scanner;
-
 public class ChineseZodiac {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-
         int year = input.nextInt();
 
         switch (year % 12) {
